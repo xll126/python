@@ -2,4 +2,6 @@
 
 print("Joy work hard")
 
-print("github 修改内容")
+print("github 修改内容"
+
+print("fetch 拉去代码")
